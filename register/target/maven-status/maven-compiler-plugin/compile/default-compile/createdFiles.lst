@@ -1,0 +1,4 @@
+com\javeros\mx\configuration\WebMvcConfig.class
+com\javeros\mx\JaverosApplication.class
+com\javeros\mx\configuration\SecurityConfiguration.class
+com\javeros\mx\restcontroller\RestController.class
